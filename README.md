@@ -1,0 +1,2 @@
+# bazardeli
+ecommerce app
